@@ -1,0 +1,28 @@
+{
+  "name": "stack-bucket-node",
+  "version": "1.0.0",
+  "description": "A stack Bucket A simple Shopping List Application & Mamde with Node and express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arif322/project-bucket-nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arif322/project-bucket-nodejs/issues"
+  },
+  "homepage": "https://github.com/arif322/project-bucket-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  },
+  "engines": {
+    "node": "v14.15.1"
+  }
+}
